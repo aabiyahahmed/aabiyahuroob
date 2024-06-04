@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aabiyahuroob, an aspiring code enthusiast, an obsessive compulsive thinker and a chai drinker.
-- Feel free to reach me out if you ever want to be yapped to :D
+Hiiii, I’m @aabiyahuroob, an aspiring code enthusiast, an obsessive compulsive thinker and a chai drinker.
+
 
 
 <!---
