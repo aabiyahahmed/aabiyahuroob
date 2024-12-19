@@ -1,4 +1,4 @@
-Hiiii, I’m @aabiyahuroob, an aspiring code enthusiast, an obsessive compulsive thinker and a chai drinker.
+
 
 
 
